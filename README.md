@@ -34,10 +34,6 @@ What are the top-selling product subcategories?
 
 How do customer segments differ in profitability?
 
-How does sales performance vary by region, state, and city?
-
-What are the key trends and correlations in sales metrics?
-
 Results
 A clean and structured dataset enabled accurate analysis. The dashboard provides actionable insights into sales trends, customer behavior, and product performance, empowering better business decisions.
 
